@@ -1,6 +1,5 @@
-import { Gallery } from "./gallery";
+import { Gallery } from "./Gallery";
 import "./index.css";
-// import "./style.css";
 
 function App() {
   return (
